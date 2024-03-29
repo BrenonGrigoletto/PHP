@@ -9,7 +9,7 @@
 <body>
   <h1>Programação WEB</h1> 
   <h4>Menu</h4>
-  <div> <button type="button" onclick="location.href='lista2.php'">Alunos</button> <br>
+  <div> <button type="button" onclick="location.href='lista2.php'">2ª Lista</button> <br>
   </div> 
 
   <footer>
