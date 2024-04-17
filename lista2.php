@@ -18,6 +18,8 @@
   </div>
   <div> <button type="button" onclick="location.href='l2_ex5.php'">Exercicio 5</button> <br>
   </div>
+  <div> <button type="button" onclick="location.href='l2_ex6.php'">Exercicio 6</button> <br>
+  </div>
   <div> <button type="button" onclick="location.href='l2_ex7.php'">Exercicio 7</button> <br>
   </div>
   <div> <button type="button" onclick="location.href='l2_ex8.php'">Exercicio 8</button> <br>
