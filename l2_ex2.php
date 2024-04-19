@@ -35,7 +35,7 @@ echo "O menor valor é $menor e está na $posicao ª posição.";
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
-    <a href="lista2.php">Voltar</a>
+    <a href="lista2.php" class="btn btn-secondary mt-3">Voltar</a>
     <h2>Inform 7 numeros distintos</h2>
     <form action="l2_ex2.php" method="get">
         <label for="n1">1º Número</label>
