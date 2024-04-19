@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <a href="lista2.php">Voltar</a>
+    <a href="lista2.php" class="btn btn-secondary mt-3">Voltar</a>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercicio 3</title>
