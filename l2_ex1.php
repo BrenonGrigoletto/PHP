@@ -27,7 +27,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <a href="lista2.php">Voltar</a>
+        <a href="lista2.php" class="btn btn-secondary mt-3">Voltar</a>
         <h1>Valida se numero é positivo ou negativo</h1>
         <form action="l2_ex1.php" method="get">
             <label for="num"> Digite um numeto qualquer </label>
